@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Diego Aguirre</h1>
-d
+
 # 💫 About Me:
 Hi, I’m Diego Aguirre, a Computer Science student at UTSA with a passion for software engineering, AI, and data-driven solutions. I enjoy building web applications and working on projects that bridge technology and real-world needs. Currently focused on sharpening my programming skills, exploring machine learning, and preparing for exciting career opportunities in tech.
 
